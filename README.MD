@@ -26,6 +26,7 @@ The only exception to this will be things like event managers which can be hard 
     - Fabric/Fabric API
     - Note: May be expanded
 - Any attempts to crash the game server deliberately during the matches will result in instant disqualification and ban from the rest of the challenge. Astra will have final say in this event.
+- All modifications must be running on Minecraft version 1.15, 1.15.1, or 1.15.2
 - All game servers will be hosted in Hardcore mode, forcing the player into spectator upon ANY death, including before PvP is enabled.
 - After each match there will be a gap of 1 week for players to improve their clients.
 - Rules may update so check back once in a while.
