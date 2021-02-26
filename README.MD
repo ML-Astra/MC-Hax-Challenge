@@ -29,6 +29,7 @@ The only exception to this will be things like event managers which can be hard 
 - All modifications must be running on Minecraft version 1.15, 1.15.1, or 1.15.2
 - All game servers will be hosted in Hardcore mode, forcing the player into spectator upon ANY death, including before PvP is enabled.
 - After each match there will be a gap of 1 week for players to improve their clients.
+- To enter, clone this repo and make a MD file following the example. Once you have done so, create a pull request and once merged consider yourself in.
 - Rules may update so check back once in a while.
 
 ### Player Points
